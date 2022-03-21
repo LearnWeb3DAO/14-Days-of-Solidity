@@ -6,4 +6,4 @@ The sessions are taught by [Sahil Aujla](https://twitter.com/SahilAujla15) and [
 
 ## Links to the recorded sessions
 
-- [Day 1](https://www.youtube.com/watch?v=-uTg8kEqBiw)
+- [Day 1 - Introduction to Smart Contracts & Solidity](https://www.youtube.com/watch?v=-uTg8kEqBiw)
