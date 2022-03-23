@@ -14,8 +14,9 @@ contract DataTypes{
    //Arrays: Advanced Data Type
 
 
-    string public hello = "Hello";
-    uint public number; 
+    string public hello = "Hello"; //Basic string variable
+    uint public number; //Basic variable to define a unsigned integer
+    int public number2; //Basic variable to define an integer
     int public minNumber2 = type(int).min; //The lowest number for an integer
     uint public minNumber = type(uint).min; //The lowest number for an unsigned integer
     uint public maxNumber = type(uint).max; //The highest number for an unsigned integer
