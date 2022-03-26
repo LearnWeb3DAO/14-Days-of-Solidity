@@ -11,4 +11,5 @@ The sessions are taught by [Sahil Aujla](https://twitter.com/SahilAujla15) and [
 - [Day 2 - Simple Storage Smart Contract Part 2](https://www.youtube.com/watch?v=jo9c9p8bcqA)
 - [Day 3 - Primitive Data Types](https://youtu.be/PVhapQRcs-g)
 - [Day 4 - To-do List Smart Contract](https://youtu.be/kPA6szuTBkM)
+- [Day 5 - Function Types and Visibility](https://youtu.be/J0qjokiPbcE)
 
