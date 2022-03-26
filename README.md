@@ -12,4 +12,5 @@ The sessions are taught by [Sahil Aujla](https://twitter.com/SahilAujla15) and [
 - [Day 3 - Primitive Data Types](https://youtu.be/PVhapQRcs-g)
 - [Day 4 - To-do List Smart Contract](https://youtu.be/kPA6szuTBkM)
 - [Day 5 - Function Types and Visibility](https://youtu.be/J0qjokiPbcE)
+- [Day 6 - Lottery Smart Contract](https://youtu.be/9VaGdtp6Vtk)
 
