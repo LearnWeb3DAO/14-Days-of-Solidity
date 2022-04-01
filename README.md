@@ -15,4 +15,6 @@ The sessions are taught by [Sahil Aujla](https://twitter.com/SahilAujla15) and [
 - [Day 6 - Lottery Smart Contract](https://youtu.be/9VaGdtp6Vtk)
 - [Day 7 - Local, State, Global Variables](https://youtu.be/jfUlqqnLg6s)
 - [Day 8 - Auction Contract](https://youtu.be/DqK_MtAhEtM)
+- [Day 9 - Default Values, Conditionals, Modifiers](https://youtu.be/1cEYNu8EYT0)
+- [Day 10 - Appointment Scheduler](https://youtu.be/iXMURiaz3Fk)
 
