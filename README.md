@@ -17,4 +17,6 @@ The sessions are taught by [Sahil Aujla](https://twitter.com/SahilAujla15) and [
 - [Day 8 - Auction Contract](https://youtu.be/DqK_MtAhEtM)
 - [Day 9 - Default Values, Conditionals, Modifiers](https://youtu.be/1cEYNu8EYT0)
 - [Day 10 - Appointment Scheduler](https://youtu.be/iXMURiaz3Fk)
+- [Day 11 - Errors And Exceptions](https://youtu.be/Xv2M6tr0WwQ)
+- [Day 12 - Salary Management](https://youtu.be/Ctil13VRm7Y)
 
