@@ -19,4 +19,6 @@ The sessions are taught by [Sahil Aujla](https://twitter.com/SahilAujla15) and [
 - [Day 10 - Appointment Scheduler](https://youtu.be/iXMURiaz3Fk)
 - [Day 11 - Errors And Exceptions](https://youtu.be/Xv2M6tr0WwQ)
 - [Day 12 - Salary Management](https://youtu.be/Ctil13VRm7Y)
+- [Day 13 - Data Location, Inheritance, Interfaces](https://youtu.be/dYUSwgdF3pI)
+- [Day 14 -  ERC20 Faucet](https://youtu.be/31ZKNciCNq4)
 
